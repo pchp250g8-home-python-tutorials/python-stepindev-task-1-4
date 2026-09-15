@@ -4,5 +4,5 @@
 call "%ANACONDA_ROOT%\Scripts\activate.bat" %ANACONDA_ROOT%
 @set PATH=%VSCODE_ROOT%;%PATH%
 @cls
-python %~dp0\Task-1-4.py
+python %~dp0\Task-1-4-ru.py
 pause >nul
